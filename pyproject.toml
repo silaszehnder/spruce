@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "szstatic"
+name = "spruce"
 version = "0.1.0"
 description = ""
 authors = ["Silas Zehnder <silaszehnder@gmail.com>"]
