@@ -7,6 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+python-frontmatter = "^1.0.0"
+markdown2 = "^2.4.6"
+liquidpy = "^0.7.6"
 
 
 [build-system]
